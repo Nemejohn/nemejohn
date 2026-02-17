@@ -25,15 +25,16 @@ I am a developer driven by mathematical precision and functional design. My work
 * **Math Focus:** Formalizing mathematical notation for digital documentation.
 
 
-### 🛒 Full-Stack E-Commerce Platform
+<! --- ### 🛒 Full-Stack E-Commerce Platform
 *A robust web application built with Django, featuring user authentication, product management, and a dynamic shopping cart.*
 * **Tech:** Python, Django, HTML5/CSS3, SQLite.
 * **Key Feature:** Database schema design and secure CRUD operations.
+--->
 
-### 🤖 Intelligent ChatBot 
+<! -- ### 🤖 Intelligent ChatBot 
 *A Python-based chatbot designed to handle user queries efficiently using NLP basics.*
 * **Tech:** Python, Streamlit/Flask.
-* **Impact:** Explored logic-based decision trees and conversational flow.
+* **Impact:** Explored logic-based decision trees and conversational flow. -->
 
 ### 🧮 GUI Arithmetic Processor
 *A desktop calculator built with Tkinter, focusing on event-driven programming and error handling.*
@@ -51,17 +52,17 @@ Beyond coding, I am deeply interested in:
 
 ---
 
-## 📊 My GitHub Journey
+<! -- ## 📊 My GitHub Journey
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?nemejohn=[nemejohn]&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nemejohn=[nemejohn]&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nemejohn=[nemejohn]&layout=compact&theme=dark) -->
 
 ---
 
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [https://www.linkedin.com/in/nwagboo-john-b2b0a1368/]
-- **Portfolio:** [Insert Link]
+<! -- - **Portfolio:** [Insert Link] -->
 - **Email:** [nemejohn62@gmail.com]
 
-*"Mathematics is the music of reason." — James Joseph Sylvester*
+*"In mathematics, you don't understand things. You just get used to them." — John von Neumann*
