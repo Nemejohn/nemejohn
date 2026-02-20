@@ -13,7 +13,7 @@ I am a developer driven by mathematical precision and functional design. My work
 | **Backend** | Python (Django), SQL |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), Bootstrap |
 | **Math & ML** | Streamlit, NumPy, SymPy, Matplotlib |
-| **GUI & Tools** | Tkinter, Git, GitHub, LaTeX |
+| **GUI & Tools** | Tkinter, Git, GitHub, LaTeX | 
 
 ---
 
