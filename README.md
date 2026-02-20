@@ -1,4 +1,4 @@
-# Hi there, I'm Nwagboo John 👋
+# Hi there, I'm Nwagboo John 👋 
 
 ### 📐 Mathematics & Technology Student | Full-Stack Python Developer
 
@@ -44,5 +44,6 @@ Beyond coding, I am deeply interested in:
 
 - **LinkedIn:** https://www.linkedin.com/in/nwagboo-john-b2b0a1368/
 - **Email:** nemejohn62@gmail.com
+- **Medium:** medium.com/@nwagboojohn
 
 *"In mathematics, you don't understand things. You just get used to them." — John von Neumann*
